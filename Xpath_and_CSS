@@ -1,0 +1,14 @@
+Task2
+Write XPath and CSS locator
+for "Get in Touch" button under the "Let’s make extraordinary products together" section
+in the "https://devico.io/" site. Add .txt file into Devico_test_task repository
+
+XPath:
+//div[@class='home-top-section__inner']//a
+
+//a[@class='home-top-section__button-container']//div[@class='button']
+
+CSS:
+.home-top-section__left .button
+
+a[class='home-top-section__button-container'] div[class='button']
