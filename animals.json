@@ -1,0 +1,14 @@
+[
+  {
+    "name": "pigs",
+    "quantity": 6
+  },
+  {
+    "name": "chickens",
+    "quantity": 12
+  },
+  {
+    "name": "cows",
+    "quantity": 21
+  }
+]
