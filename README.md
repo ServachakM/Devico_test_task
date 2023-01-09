@@ -12,3 +12,4 @@ The "Xpath_and_CSS" file with locators is stored in this repository
 My solution for the last task stored in the "task_about_animals" package:
 - The "Main" class is a class where we can see the output after running
 - The "Utils" class is a class where functions resolve task
+I used the Jackson library for the solution.
