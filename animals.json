@@ -1,14 +1,5 @@
-[
-  {
-    "name": "pigs",
-    "quantity": 6
-  },
-  {
-    "name": "chickens",
-    "quantity": 12
-  },
-  {
-    "name": "cows",
-    "quantity": 21
-  }
-]
+{
+  "pigs": 6,
+  "chickens": 12,
+  "cows": 21
+}
